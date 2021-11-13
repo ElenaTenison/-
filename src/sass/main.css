@@ -154,12 +154,8 @@ body {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  background-color: #c4c4c4;
   text-align: center;
   width: 100%;
-  margin-right: auto;
-  margin-left: auto;
-  padding-top: 118px;
-  padding-bottom: 118px;
+  margin: 0 auto;
 }
 /*# sourceMappingURL=main.css.map */
